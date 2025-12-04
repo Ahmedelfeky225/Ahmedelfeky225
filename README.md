@@ -51,9 +51,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedElfeky&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedElfeky&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedElfeky&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmedelfeky225&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmedelfeky225&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahmedelfeky225&theme=radical" />
 </p>
 
 ---
