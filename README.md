@@ -5,7 +5,7 @@
   <a href="https://meportfolioo.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="mailto:201005845202@gmail.com">
+  <a href="mailto:ahmedelfeky913@gmail.com">
     <img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/ahmed-elfeky-351283250/" target="_blank">
