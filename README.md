@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Elfeky</h1>
-<h3 align="center">🚀 Front-End Developer | React, Next.js & Vue Specialist</h3>
+<h3 align="center"> Front-End Developer | React, Next.js & Vue Specialist</h3>
 
 <p align="center">
   <a href="https://meportfolioo.netlify.app/" target="_blank">
