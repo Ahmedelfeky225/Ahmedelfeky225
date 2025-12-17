@@ -23,10 +23,10 @@
 
 ### 🧠 About Me
 
-💡 Passionate about building modern, responsive web apps  
-⚛️ Specialized in React, Next.js, Tailwind CSS  
-🎯 Focused on clean architecture & pixel-perfect UI  
-🧪 Always experimenting with new tech & animations
+ Passionate about building modern, responsive web apps  
+ Specialized in React, Next.js, Tailwind CSS  
+ Focused on clean architecture & pixel-perfect UI  
+ Always experimenting with new tech & animations
 
 ---
 
