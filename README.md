@@ -3,13 +3,13 @@
 
 <p align="center">
   <a href="https://meportfolioo.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/_Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="mailto:ahmedelfeky913@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/ahmed-elfeky-351283250/" target="_blank">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
@@ -44,7 +44,7 @@
 |--------|-------------|------|
 | 🧩 Template Builder Dashboard | Dynamic template preview & customization | Next.js, Zustand, Tailwind |
 | 🗺️ Interactive Map Feature | Location search with debounce & animation | React, Leaflet, Framer Motion |
-| 🌐 [Portfolio Website](https://meportfolioo.netlify.app/) | Live showcase of my work | React, Tailwind, Netlify |
+| 🌐 [Portfolio Website](https://meportfolioo.netlify.app/) | Live showcase of my work | React, Tailwind, vue,Next
 
 ---
 
@@ -76,9 +76,9 @@
 
 ### 📫 Contact Me
 
-- 📧 **Email:** ahmedelfeky913@gmail.com  
-- 🌍 **Portfolio:** [meportfolioo.netlify.app](https://meportfolioo.netlify.app/)  
-- 💼 **LinkedIn:** [Ahmed Elfeky](https://www.linkedin.com/in/ahmed-elfeky-351283250/)
+-  **Email:** ahmedelfeky913@gmail.com  
+-  **Portfolio:** [meportfolioo.netlify.app](https://meportfolioo.netlify.app/)  
+-  **LinkedIn:** [Ahmed Elfeky](https://www.linkedin.com/in/ahmed-elfeky-351283250/)
 
 ---
 
