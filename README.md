@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Elfeky</h1>
-<h3 align="center"> Front-End Developer | React, Next.js & Vue Specialist</h3>
+<h3 align="center"> Web Developer | React, Next.js & Vue Specialist,Nodejs,Express</h3>
 
 <p align="center">
   <a href="https://meportfolioo.netlify.app/" target="_blank">
@@ -33,7 +33,7 @@
 ### ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,nextjs,tailwind,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,nextjs,tailwind,git,github,vscode,figma,nodejs,express,mongodb" />
 </p>
 
 ---
@@ -58,9 +58,9 @@
 
 ### 🏆 Experience
 
-- 💼 Front-End Developer — **Qomra (UAE)** *(Remote)*  
-- 💻 Front-End Intern — **GateTech (Egypt)**  
-- 🔧 Freelance Front-End Developer *(Ongoing)*
+- 💼 Web Developer — **Qomra (UAE)** *(Remote)*  
+- 💻 Front-End Developer — **GateTech (Egypt)**  
+- 🔧 Freelance Web Developer *(Ongoing)*
 
 ---
 
