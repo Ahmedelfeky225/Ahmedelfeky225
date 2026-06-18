@@ -42,9 +42,7 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🧩 Template Builder Dashboard | Dynamic template preview & customization | Next.js, Zustand, Tailwind |
-| 🗺️ Interactive Map Feature | Location search with debounce & animation | React, Leaflet, Framer Motion |
-| 🌐 [Portfolio Website](https://meportfolioo.netlify.app/) | Live showcase of my work | React, Tailwind, vue,Next
+ 🌐 [Portfolio Website](https://meportfolioo.netlify.app/) | Live showcase of my work | React, Tailwind, vue,Next
 
 ---
 
