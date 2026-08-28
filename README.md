@@ -42,7 +42,7 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
- 🌐 [Portfolio Website](https://meportfolioo.netlify.app/) | Live showcase of my work | React, Tailwind, vue,Next
+ 🌐 [Portfolio Website](https://meportfolioo.vercel.app/) | Live showcase of my work | React, Tailwind, vue,Next
 
 ---
 
