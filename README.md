@@ -22,6 +22,10 @@
 > You can explore selected projects, live demos, and more details about my work through my portfolio.
 
 <p align="center">
+  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Ahmedelfeky225/Ahmedelfeky225/main/repo-stats.json" />
+</p>
+
+<p align="center">
   <a href="https://meportfolioo.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/View_My_Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
@@ -97,10 +101,13 @@
   <a href="mailto:ahmedelfeky913@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/ahmed-elfeky-351283250/">
+  <a href="https://wa.me/201005845202" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ahmed-elfeky-351283250/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://meportfolioo.vercel.app/">
+  <a href="https://meportfolioo.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
