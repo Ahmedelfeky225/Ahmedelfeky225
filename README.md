@@ -2,7 +2,7 @@
 <h3 align="center"> Web Developer | React, Next.js & Vue Specialist,Nodejs,Express</h3>
 
 <p align="center">
-  <a href="https://meportfolioo.netlify.app/" target="_blank">
+  <a href="https://meportfolioo.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/_Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="mailto:ahmedelfeky913@gmail.com">
@@ -75,7 +75,7 @@
 ### 📫 Contact Me
 
 -  **Email:** ahmedelfeky913@gmail.com  
--  **Portfolio:** [meportfolioo.netlify.app](https://meportfolioo.netlify.app/)  
+-  **Portfolio:** [meportfolioo.netlify.app](https://meportfolioo.vercel.app/)  
 -  **LinkedIn:** [Ahmed Elfeky](https://www.linkedin.com/in/ahmed-elfeky-351283250/)
 
 ---
