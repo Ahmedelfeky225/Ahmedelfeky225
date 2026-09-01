@@ -16,16 +16,16 @@
 
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Front-End+Developer;React+%2F+Next.js+Specialist;Full-Stack+Web+Developer;Clean+Code+Advocate;Pixel+Perfect+UI+Lover" />
+</p>
+
+---
+
 ### Project Repositories Notice
 
 > All of my project repositories are private due to client confidentiality and project agreements.
 > You can explore selected projects, live demos, and more details about my work through my portfolio.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Total_Repos-Private-blue" />
-  <img src="https://img.shields.io/badge/Public_Repos-0-green" />
-  <img src="https://img.shields.io/badge/Private_Repos-Confidential-orange" />
-</p>
 
 <p align="center">
   <a href="https://meportfolioo.vercel.app/" target="_blank">
@@ -33,10 +33,10 @@
   </a>
 </p>
 
----
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Front-End+Developer;React+%2F+Next.js+Specialist;Full-Stack+Web+Developer;Clean+Code+Advocate;Pixel+Perfect+UI+Lover" />
+  <img src="https://img.shields.io/badge/Total_Repos-Private-blue" />
+  <img src="https://img.shields.io/badge/Public_Repos-0-green" />
+  <img src="https://img.shields.io/badge/Private_Repos-Confidential-orange" />
 </p>
 
 ---
