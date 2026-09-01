@@ -16,13 +16,15 @@
 
 ---
 
-### Project Repository Notice
+### Project Repositories Notice
 
 > All of my project repositories are private due to client confidentiality and project agreements.
 > You can explore selected projects, live demos, and more details about my work through my portfolio.
 
 <p align="center">
-  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Ahmedelfeky225/Ahmedelfeky225/main/repo-stats.json" />
+  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Ahmedelfeky225/Ahmedelfeky225/main/repo-total.json" />
+  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Ahmedelfeky225/Ahmedelfeky225/main/repo-public.json" />
+  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Ahmedelfeky225/Ahmedelfeky225/main/repo-private.json" />
 </p>
 
 <p align="center">
