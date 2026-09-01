@@ -22,9 +22,9 @@
 > You can explore selected projects, live demos, and more details about my work through my portfolio.
 
 <p align="center">
-  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Ahmedelfeky225/Ahmedelfeky225/main/repo-total.json" />
-  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Ahmedelfeky225/Ahmedelfeky225/main/repo-public.json" />
-  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Ahmedelfeky225/Ahmedelfeky225/main/repo-private.json" />
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FAhmedelfeky225%2FAhmedelfeky225%2Fmain%2Frepo-total.json" />
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FAhmedelfeky225%2FAhmedelfeky225%2Fmain%2Frepo-public.json" />
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FAhmedelfeky225%2FAhmedelfeky225%2Fmain%2Frepo-private.json" />
 </p>
 
 <p align="center">
