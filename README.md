@@ -52,10 +52,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,nodejs,express,mysql,postgresql,mongodb,git,github,vscode,figma" />
 </p>
 
-<p align="center">
-  HTML • CSS • JavaScript • TypeScript • React • Next.js • Vue.js • Tailwind CSS • Node.js • Express.js • REST APIs • SQL • MySQL • PostgreSQL • NoSQL • MongoDB • Git • GitHub • VS Code • Figma
-</p>
-
 ---
 
 ### Featured Projects
